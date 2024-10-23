@@ -1,0 +1,25 @@
+#messi{
+    color:red;
+    text-shadow: 3px 3px 3px yellow;
+}
+#ronaldo{
+      color:blue;
+      text-shadow: 4px 4px 4px green;
+}
+body{
+   background-color: purple;
+}
+#codingal{
+       background-color: yellow;
+       color: red;
+       border-radius: 20px;
+       
+}
+#todoinput{
+            border-radius: 10px;
+            background: red;
+            color: orange;
+}
+#todoitem{
+             color: green;
+}
